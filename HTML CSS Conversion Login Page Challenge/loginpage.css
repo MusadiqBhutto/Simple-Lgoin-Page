@@ -7,9 +7,9 @@ body
 
 .container
 {
-    width: 30%;
-    margin:  0 auto;
-    display: block;  
+    width: 400px;
+    margin:  auto;
+    display: block; 
 }
 
 #logo
